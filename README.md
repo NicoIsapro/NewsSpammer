@@ -4,7 +4,7 @@ Déstiné à un usage démonstratif uniquement
 
 
  ----------------------------------------------------
-                          TODO                          
+                                               TODO                          
  ----------------------------------------------------
 
 - Faire un deuxieme fichier contenant les servers de newsletter; ce sera plus simple pour les modifier par la suite
