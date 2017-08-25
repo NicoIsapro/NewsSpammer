@@ -4,7 +4,23 @@ Déstiné à un usage démonstratif uniquement
 
 
  ----------------------------------------------------
-                                               TODO                          
+                                                         Principe                        
+ ----------------------------------------------------
+
+Vous rentrez une adresse mail, et le bot l'inscrit a des centaines de newsletters !
+
+ ----------------------------------------------------
+                                                        Nécessaire                    
+ ----------------------------------------------------
+
+- Python 3 
+- Module Requests
+
+Créé sous Windows, le principe est pas compliqué donc fonctionne surement sur MacOS/Linux
+
+
+ ----------------------------------------------------
+                                                          TODO                          
  ----------------------------------------------------
 
 - Faire un deuxieme fichier contenant les servers de newsletter; ce sera plus simple pour les modifier par la suite
