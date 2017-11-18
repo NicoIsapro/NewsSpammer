@@ -337,8 +337,5 @@ if code13 == 200:
   print("Serveur 13 OK \n")
 else: 
        print ("Erreur Serveur 13 \n")  
-   	 	   
-		
-
-		   
+   	 	   	   
 exit()
