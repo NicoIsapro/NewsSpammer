@@ -4,7 +4,7 @@
 
 
 # ----------------------------------------------------#
-#                            TODO                          #
+#                            TODO                     #
 # ----------------------------------------------------#
 
 # Faire un deuxieme fichier contenant les servers de newsletter; ce sera plus simple pour les modifier par la suite
@@ -89,7 +89,7 @@ else:
 print("Interrogation et inscription des serveurs de spam \n")  
 
 # ----------------------------------------------------#
-#              PARTIE INSCRIPTION                  #
+#              PARTIE INSCRIPTION                     #
 # ----------------------------------------------------#
 
 url1 = "http://www.points.fr/inscription-newsletter.html"
